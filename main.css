@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
+
+*{
+	padding:0;
+	margin:0;
+	background:#000000;
+	color:#008000;
+}
+
+body{
+	font-family: "Ubuntu", sans-serif;
+	font-size: 100%;
+
+}
+
+a{
+	text-decoration: none;
+	color:#008000;
+}
+	a:hover{
+		color:#999;
+	}
+p{
+	line-height: 2em;
+	margin:0 0 20px;
+	text-align: center;
+}
